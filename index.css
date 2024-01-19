@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    font-family: "Roboto";
+    color:#183b56 ;
+}
+#p{
+    color: #5a7184;
+    font-size: 0px;
+}
+
+
+body {
+    margin: 0px;
+}
+.main-container{
+    text-align: center;
+    padding:10px;
+    margin: 5px;
+}
+.bottom-container{
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 15px;
+}
+.logos{
+    height:50px;
+   width:50px;
+}
